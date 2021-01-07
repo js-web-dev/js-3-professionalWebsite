@@ -1,0 +1,26 @@
+Mögliche Texte für die Begrüssung im Abschnitt Tagesgruss:
+
+Guten Morgen Besucher - das Team von Professional Website begrüsst Sie im neuen Tag! (1-9)
+Guten Tag Besucher - das Team von Professional Website  begleitet Sie durch den Tag!(10-18)
+Guten Abend Besucher - das Team von Professional Website  wünscht Ihnen einen schönen Abend!(19-23)
+
+
+Emaillistung im Abschnitt Emailbereich;
+
+Schreibweise (geschützt), wenn JavaScript aktiv --> Ausgabe als Email-Hyperlinks in Absätzen:
+maincast@professional-website.com
+team1@professional-website.com
+team2@professional-website.com
+team3@professional-website.com
+team4@professional-website.com
+
+
+
+Wenn JavaScript inaktiv --> Ausgabe als Standardtexte in Absätzen:
+
+- maincast[at]professional-website.com
+- team1[at]professional-website.com
+- team2[at]professional-website.com
+- team3[at]professional-website.com
+- team4[at]professional-website.com
+
